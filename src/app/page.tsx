@@ -51,7 +51,7 @@ export default function Home() {
           </div>
 
           <div className="flex items-center jutify center">
-            <Image src="/logo-ribeira-novo.png" alt="Ribeira" width={250} height={46} />
+            <Image src="/logo-ribeira-antigo-edit.png" alt="Ribeira" width={250} height={46} />
           </div>
         </div>
       </div>
